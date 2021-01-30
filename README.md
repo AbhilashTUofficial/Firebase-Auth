@@ -8,8 +8,8 @@ This repo is all about authentication in Firebase
 [<img align="left" alt="Dart" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/dart.png">][dart]
 [<img align="left" alt="Flutter" width="34px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
 [<img align="left" alt="Java" width="32px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
-<br/><br/>
 
+<br/><br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Firebase-Auth?color=blue&label=Last%20Commit%3A&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Firebase-Auth?label=Repo%20Size%3A&style=for-the-badge)
 ### Connect with me :  
